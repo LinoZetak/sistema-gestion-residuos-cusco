@@ -49,7 +49,7 @@ Optimizar la gestión de residuos urbanos mediante tecnología que mejora la efi
 ## 👨‍💻 Equipo
 
 - Lino Zeynt Huaracallo Arenas - 204798
-- 
+- Richard Braulio Puma Condori - 161809
 -  
 -   
 
