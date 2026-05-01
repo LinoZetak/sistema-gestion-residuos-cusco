@@ -48,7 +48,7 @@ Optimizar la gestión de residuos urbanos mediante tecnología que mejora la efi
 
 ## 👨‍💻 Equipo
 
-- Lino Zeynt Huaracallo Arenas
+- Lino Zeynt Huaracallo Arenas - 204798
 - 
 -  
 -   
