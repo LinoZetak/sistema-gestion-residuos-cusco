@@ -4,7 +4,7 @@ Aplicación web orientada a mejorar la gestión de residuos en la ciudad de Cusc
 
 ---
 
-## 🎯 Visión del Producto
+##  Visión del Producto
 
 - **Para:** Municipalidad, ciudadanos y operadores de camiones  
 - **El sistema:** Plataforma web de gestión de residuos  
