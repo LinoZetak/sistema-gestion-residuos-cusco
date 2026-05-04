@@ -51,7 +51,7 @@ Optimizar la gestión de residuos urbanos mediante tecnología que mejora la efi
 - Lino Zeynt Huaracallo Arenas - 204798
 - Richard Braulio Puma Condori - 161809
 - Carlos Willian Luna Ccapa    - 210178
-- 
+- Jhoel Alex Luicho Quispe     - 224871
 
 ---
 
