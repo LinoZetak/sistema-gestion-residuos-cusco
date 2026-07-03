@@ -67,7 +67,7 @@
     },
     "owner": "linozeynt",
     "runtimeVersion": {
-      "policy": "appVersion"
+      "policy": "sdkVersion"
     },
     "updates": {
       "url": "https://u.expo.dev/68a74186-54a0-4943-8be6-a646e31383c1"
